@@ -2,7 +2,7 @@
 The purpose of this lab is to learn about Django, Flask and the Django REST framework by downloading and running various projects.
 
 ## Start Django project "stevens," run server, and view app 
-- Setting up project by copying files from repo to a newply created app/project
+- Setting up project by copying files from repo to a newly created app/project
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/f8d1f741-024d-4efa-b94a-ba901f5a58f2)
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/24fe0573-701f-4a1e-85e7-633627399bb2)
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/47a8c645-e8c8-4050-93a6-4162df5f7631)
@@ -30,3 +30,9 @@ The purpose of this lab is to learn about Django, Flask and the Django REST fram
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/c86c944a-7fb4-4e4b-9b61-23983b4c2b64)
 - CPU and memory values change while running the conroller.py file
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/dcc33135-7c00-4e9b-a660-02da6f06985b)
+
+## Install Flask if no module named 'flask'
+- Run Flask server via hello_world.py and view app after installing flask module
+![image](https://github.com/h-pyo/cpe-322/assets/89234087/66a60231-120a-4971-ade6-46c2111c3883)
+![image](https://github.com/h-pyo/cpe-322/assets/89234087/9fd737fe-e028-42e0-8aee-c4d74cf12155)
+![image](https://github.com/h-pyo/cpe-322/assets/89234087/90063831-ff30-4f31-943c-49093b19a4ba)
