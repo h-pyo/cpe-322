@@ -29,7 +29,11 @@ The purpose of this lab is to learn about Django, Flask and the Django REST fram
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/d0686ba2-c6b1-4d75-8b67-364e8b42a460)
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/c86c944a-7fb4-4e4b-9b61-23983b4c2b64)
 - CPU and memory values change while running the controller.py file
+<<<<<<< HEAD
 ![image](https://github.com/h-pyo/cpe-322/assets/89234087/dcc33135-7c00-4e9b-a660-02da6f06985b)
+=======
+![image](https://github.com/h-pyo/cpe-322/assets/89234087/9a685d4c-4ce1-4738-9a7a-a7455bd143db)
+>>>>>>> dc02e9bbbf5f01c5c3d2b02e63a44353fb84499b
 
 ## Install Flask if no module named 'flask'
 - Run Flask server via hello_world.py and view app after installing flask module
