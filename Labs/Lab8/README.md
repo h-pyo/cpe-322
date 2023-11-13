@@ -4,12 +4,31 @@ The purpose of this lab is to learn about data analysis through various python l
 ## Setting Up Libraries and Packages
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/8a42921f-8270-4bac-8525-a377dce885fc)
 
+## X Applications Example
+- ![image](https://github.com/h-pyo/cpe-322/assets/89234087/8c38fef9-3507-43da-8f4b-31f7bf37b4f1)
+- ico
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/9d48ecd9-3aa8-4a5b-87b5-40ea4f71c692)
+- oclock
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/4c31d4f5-f82d-4bf0-8c47-6f86585d8695)
+- xcalc
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/91550585-dc2b-4fc9-9249-49ede8012595)
+- xclock
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/8ffe78ab-910b-4757-84a9-667cd29768ad)
+- xeyes
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/997780ef-81ad-4879-9122-d2b82fc6f0c4)
+- xgc
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/f8a6f57e-6eb8-4429-b718-f650f8e4a15e)
+- xlogo
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/08542bba-45b4-44fe-b2bc-fdec30db37d9)
+- xman
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/f2eebedb-6a9d-49c1-a90f-fb73dd965ade)
+
 ## Running Npmpy Array Example
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/eee4edb2-6229-403b-9e4e-73ff28189e86)
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/665a9809-91a8-463c-8665-fb9663cccfcb)
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/af4e9d6f-ec12-4a63-ab0e-f3ab86088ff4)
 
-## Review and Run Python Code
+## Review and Run Python Code Example
 - pyplot_simple.py
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/2e049d4c-b9f8-4f51-9297-809bfdf32e4a)
 - simple_plot.py
@@ -31,7 +50,7 @@ The purpose of this lab is to learn about data analysis through various python l
 - legend_demo.py
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/8fa20c60-98c0-465b-a6b7-55ba83fea729)
 
-## Histograms, Box Plots, Regression, and Interpolation
+## Histograms, Box Plots, Regression, and Interpolation Examples
 - scatter_demo.py
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/327fc2cb-e993-4009-800b-f4595b5979e9)
 - histogram_demo_features.py
@@ -48,7 +67,7 @@ The purpose of this lab is to learn about data analysis through various python l
  - interpolation.py
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/b10fba92-a238-4378-8675-85f12d35d2c3)
 
-## Classification, Cross-Validation (CV), and Support-Vector Machine (SVM)
+## Classification, Cross-Validation (CV), and Support-Vector Machine (SVM) Examples
 - plot_lda.py
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/6c472d90-9ef8-4c56-a8a4-dac52d464a87)
 - plot_lda_qda.py (Couldn't get this one to run because of errors such as 5 params when I only have 4)
@@ -58,15 +77,23 @@ The purpose of this lab is to learn about data analysis through various python l
 - plot_cv_diabetes.py
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/3407dc35-7f5c-47c4-95cf-9c39806ace93)
   - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/58c864b4-b5c4-4dd9-9712-8bcd876fe018)
-- python traffic.py
-  - 
+- traffic.py
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/72ee4626-069b-47cf-88ff-1c38ef574ed1)
 
-
-
-## Keras and TensorFlow
+## Keras and TensorFlow Examples
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/05c5118b-9ba6-406a-a6ba-823563a4ec95)
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/c7e9ce90-101a-4eb0-8eda-9a9a6a9db98b)
 
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/7d88efd2-b841-4bd7-a0b3-580421c50199)
 - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/92f0c27e-b0c5-480b-b401-0934513489e0)
+
+## Titanic Example
+- ![image](https://github.com/h-pyo/cpe-322/assets/89234087/54093502-1a93-4e19-8413-eed262c6977f)
+- titanic_1.py
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/1dce6530-453c-4bac-910d-082d85560278)
+- titanic_2.py
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/4a62b017-68e4-48d7-8c49-8ffcb0fdac43)
+
+
+
 
