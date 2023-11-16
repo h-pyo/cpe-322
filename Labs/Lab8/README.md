@@ -96,7 +96,8 @@ The purpose of this lab is to learn about data analysis through various python l
 
 ## Part B - Data Analysis
 - plt_final.py
-  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/f6e6c638-6c63-4cd3-b31c-b936558997d5)
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/bc8716a2-0c65-45b8-bc74-3577f158a07a)
 - plt_cv2.py
-  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/93fc848b-3212-49be-a2d5-bb1d1a1759a2)
+  - ![image](https://github.com/h-pyo/cpe-322/assets/89234087/482ec772-b614-4f9f-b74b-0a8b8a136568)
+
 
